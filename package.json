@@ -4,8 +4,8 @@
 	"description": "Simple Fake API",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js",
-		"start-auth": "node index.js"
+		"start": "json-server db.json -m ./node_modules/json-server-auth",
+		"start-auth": "json-server db.json -m ./node_modules/json-server-auth"
 	},
 	"author": "ME:)",
 	"license": "ISC",

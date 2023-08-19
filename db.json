@@ -1,14 +1,4 @@
 {
-	"users": [
-	  {
-		"email": "azicakcl@gmail.com",
-		"password": "$2a$10$XyMSlcIbHauihP1XZotZIeYLZpDnk9zx7ZkXAr6wxgQgEr9pY1Dj2",
-		"id": 1
-	  },
-	  {
-		"email": "test@gmail.com",
-		"password": "$2a$10$ptXHI1L5lDKb7RtfueAu6.40nZvsZVjbXsBx91/0kgluifWhy.Jya",
-		"id": 2
-	  }
-	]
-  }
+  "users": [
+  ]
+}

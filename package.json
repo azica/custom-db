@@ -4,7 +4,7 @@
 	"description": "Simple Fake API",
 	"main": "index.js",
 	"scripts": {
-		"start": "json-server db.json -m ./node_modules/json-server-auth",
+		"start": "node index.js",
 		"start-auth": "json-server db.json -m ./node_modules/json-server-auth"
 	},
 	"author": "ME:)",

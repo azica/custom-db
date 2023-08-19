@@ -1,11 +1,10 @@
 {
 	"name": "custom-db",
 	"version": "1.0.0",
-	"description": "Simple Fake API",
-	"main": "index.js",
+	"description": "Deploy JSON Server to Vercel",
+	"main": "api/server.js",
 	"scripts": {
-		"start": "node index.js",
-		"start-auth": "json-server db.json -m ./node_modules/json-server-auth"
+		"start": "node api/server.js"
 	},
 	"author": "ME:)",
 	"license": "ISC",

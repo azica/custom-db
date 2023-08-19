@@ -14,8 +14,8 @@ app.use(middlewares)
 // Add this before server.use(router)
 const rules = auth.rewriter({
 	// Permission rules
-	users: 600,
-	messages: 640,
+	// users: 600,
+	// messages: 640,
 	// Other rules
 	'/posts/:category': '/posts?category=:category',
   })

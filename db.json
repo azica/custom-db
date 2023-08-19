@@ -1,6 +1,10 @@
 {
   "users": [
-    
+    {
+      "email": "azicakclaaa@gmail.com",
+      "password": "$2a$10$lkCgNxZXJJsbvj67G3vU1unpofq3AePMucNIHMDXV6GPbIodAMYFK",
+      "id": 1
+    }
   ],
   "posts": [
     {
